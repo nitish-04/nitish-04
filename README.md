@@ -70,27 +70,29 @@ motto: "Code. Create. Innovate."
 
 ---
 
-## 🚀 My Projects
+
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/nitish-04/health-chatbot-python">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nitish-04&repo=health-chatbot-python&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitish-04&repo=health-chatbot-python&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 
 <a href="https://github.com/nitish-04/attendancemanagement">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nitish-04&repo=attendancemanagement&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitish-04&repo=attendancemanagement&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 
-<a href="https://github.com/nitish-04/CodeAlpha_Calculator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nitish-04&repo=CodeAlpha_Calculator&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/nitish-04/advanced-todo-web-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitish-04&repo=advanced-todo-web-app&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 
 <a href="https://github.com/nitish-04/CodeAlpha_ImageGallery">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nitish-04&repo=CodeAlpha_ImageGallery&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitish-04&repo=CodeAlpha_ImageGallery&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 
 </div>
+
 
 ---
 
