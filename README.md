@@ -1,15 +1,24 @@
 
+
+<!-- ANIMATED HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:06B6D4&height=230&section=header&text=NITISH%20KUMAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:06B6D4&height=220&section=header&text=NITISH%20KUMAR&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20%7C%20AI%20%26%20ML%20Developer&descAlignY=60&descSize=17" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hey+There!+I'm+Nitish+%F0%9F%91%8B;B.Tech+CSE+(AI+%26+ML)+Student;Aspiring+Software+Developer;Exploring+Artificial+Intelligence;Building+Something+Awesome!" />
+<!-- TYPING ANIMATION -->
+
+<a href="https://github.com/nitish-04">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Nitish+Kumar+%F0%9F%91%8B;B.Tech+CSE+%7C+AI+%26+ML+Student;Aspiring+Software+Developer;Python+%7C+Java+%7C+Web+Development;Building+Ideas+Into+Real+Projects" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nitish-04&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge" />
+<em>Building today. Innovating for tomorrow.</em>
 
 </div>
+
+<!-- HEADER END -->
+
 
 ---
 
@@ -17,9 +26,8 @@
 
 ```yaml
 name: Nitish Kumar
-username: nitish-04
 education: B.Tech CSE (AI & ML)
-location: India
+location: Visakhapatnam
 role: Aspiring Software Developer
 
 interests:
